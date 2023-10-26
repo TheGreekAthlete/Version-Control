@@ -27,7 +27,8 @@ while True:
             print('Invalid Input! Password contains more than 8 digits or contains a letter! \n ')
 
     if option == 2:
-        print(f'The encoded password is {encoded_password}, and the original password is {original_password}.\n')
+        # decode is called here and it responds with both your encoded password and your decoded one
+        print(f'The encoded password is {encoded_password}, and the original password is {decode(encoded_password)}.\n')
     if option == 3:
         # ends the code
         break
