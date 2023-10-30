@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ff5797e-e47e-4c4a-be15-5a457221e6a1" name="Changes" comment="Added print statements/menu to our allready combined logic for decode &amp; encode :P">
-      <change afterPath="$PROJECT_DIR$/decode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="1ff5797e-e47e-4c4a-be15-5a457221e6a1" name="Changes" comment="Added print statements/menu to our allready combined logic for decode &amp; encode :P" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/alexander/cs-projects/Version-Control",
+    "last_opened_file_path": "/home/alexander/cs-projects/Alex-Version-Control",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698271506741</updated>
       <workItem from="1698271518926" duration="1784000" />
-      <workItem from="1698704905927" duration="451000" />
+      <workItem from="1698704905927" duration="1097000" />
     </task>
     <task id="LOCAL-00001" summary="Added print statements/menu to our allready combined logic for decode &amp; encode :P">
       <option name="closed" value="true" />

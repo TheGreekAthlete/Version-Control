@@ -18,7 +18,7 @@ while True:
     if option == 1:
         original_password = input('Please enter your password to encode: ')
         if len(original_password) == 8 and original_password.isnumeric():
-            encoded_password = encode(original_password)
+            encoded_password = encode.encode(original_password)
             print('Your password has been encoded and stored!\n')
             continue
         else:
